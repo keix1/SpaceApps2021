@@ -1,5 +1,7 @@
 # SpaceApps2021
 
+Hello, We are "Samurai Sprout".
+
 We are developing some simulations for NASA Space Apps 2021.
 
 Challenge: [Have seeds will travel!](https://2021.spaceappschallenge.org/challenges/statements/have-seeds-will-travel/details)
@@ -21,8 +23,6 @@ Requirements:
 Developed File and Directory: 
   - `FlexProject/Content/NASA/*`
   - `FlexProject/Content/Maps/flexNasaMap.umap`
-
-
 
 ### PushGel
 
