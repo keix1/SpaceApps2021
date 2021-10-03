@@ -1,6 +1,6 @@
 # SpaceApps2021
 
-Hello, We are "Samurai Sprout". →　[Link needs Login](https://2021.spaceappschallenge.org/challenges/statements/have-seeds-will-travel/teams/samurai-sprouts/project)
+Hello, We are "Samurai Sprout". →　[TEAM PAGE(Link needs Login)](https://2021.spaceappschallenge.org/challenges/statements/have-seeds-will-travel/teams/samurai-sprouts/project)
 
 We are developing some simulations for NASA Space Apps 2021.
 
