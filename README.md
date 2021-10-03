@@ -1,4 +1,4 @@
-# SpaceApps2021
+# Samurai Sprout - SpaceApps2021
 
 Hello, We are "Samurai Sprout". →　[TEAM PAGE(Link needs Login)](https://2021.spaceappschallenge.org/challenges/statements/have-seeds-will-travel/teams/samurai-sprouts/project)
 
