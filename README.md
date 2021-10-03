@@ -26,9 +26,10 @@ Developed File and Directory:
 
 ### PushGel
 
+- This directory simulates "Push and replace Gel Polymer nutrition". Astronauts can replace gel polymer quickly by pushing box.
+
 ![Cultivationkit_Polymerbox](https://user-images.githubusercontent.com/8992781/135751545-863124e4-402e-41de-b563-1d683b27b24a.png)
 
-- This directory simulates "Push and replace Gel Polymer nutrition". Astronauts can replace gel polymer quickly by pushing box.
 
 ### Models
 
